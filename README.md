@@ -328,3 +328,12 @@ ng add @angular/material  ausführen!
 -native Apps oder iphone apps
 -directives
 -pipes
+
+####
+## GitHub commit and push
+####
+	
+Github  upload project -> new repository profile-book public
+1- copy link: 
+https://github.com/momoweber/profile-book
+2- commit and push -> SignIn with git and Push to Master
